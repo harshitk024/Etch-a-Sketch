@@ -1,0 +1,25 @@
+
+*{
+    box-sizing: border-box;
+}
+body {
+    margin : 0;
+}
+
+.container{
+    padding:10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.grids {
+
+    margin:20px;
+    height: 500px;
+    width : 500px;
+    border: 1px solid black;
+
+}
